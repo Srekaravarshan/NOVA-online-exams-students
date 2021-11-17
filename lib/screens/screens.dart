@@ -1,0 +1,11 @@
+export 'assignment/assignment_screen.dart';
+export 'assignments/assignments_screen.dart';
+export 'auth/auth_screen.dart';
+export 'classes/classes_screen.dart';
+export 'classroom/classroom_screen.dart';
+export 'login/login_screen.dart';
+export 'nav/nav_screen.dart';
+export 'profile/profile_screen.dart';
+export 'question_paper/question_paper_screen.dart';
+export 'splash/splash_screen.dart';
+export 'timetable_subject/timetable_subject_screen.dart';
